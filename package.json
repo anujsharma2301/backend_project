@@ -1,0 +1,16 @@
+{
+  "name": "project-y",
+  "version": "1.0.0",
+  "description": "a backend project ",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "anuj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript , backend "
+  }
+}
